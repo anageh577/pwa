@@ -1,0 +1,1 @@
+.notification{animation:mymove 2s;transition:ease-in-out .3s}@keyframes mymove{0%{width:260px}to{width:200px}}

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1727115417177,
+  "timestamp": 1727115938948,
   "index": "https://anageh577.github.io/pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://anageh577.github.io/pwa/favicon.ico",
         "https://anageh577.github.io/pwa/index.html",
-        "https://anageh577.github.io/pwa/main.57da5d6499db090f.js",
+        "https://anageh577.github.io/pwa/main.bc4f741f13ddc7a7.js",
         "https://anageh577.github.io/pwa/manifest.webmanifest",
         "https://anageh577.github.io/pwa/polyfills.8136d5d9261d5e08.js",
         "https://anageh577.github.io/pwa/runtime.a7e0684e372f8a15.js",
@@ -52,8 +52,8 @@
     "https://anageh577.github.io/pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://anageh577.github.io/pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://anageh577.github.io/pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://anageh577.github.io/pwa/index.html": "34c12cfd33848ad70b4c8a678d8b1c85bbac7e9d",
-    "https://anageh577.github.io/pwa/main.57da5d6499db090f.js": "0b4d26b649c3e653e4f83915ad08a52f821648bc",
+    "https://anageh577.github.io/pwa/index.html": "1d0a5c4c85a51eec18eb2c1327ef7d4a4eda825e",
+    "https://anageh577.github.io/pwa/main.bc4f741f13ddc7a7.js": "77cf732ee03a1c6229853960f9d8e344aa0d6121",
     "https://anageh577.github.io/pwa/manifest.webmanifest": "d151b8433d7207417ceb81ee176b38a22ae98bc8",
     "https://anageh577.github.io/pwa/polyfills.8136d5d9261d5e08.js": "4182a2ac51a3c8d1d3f025a542336afcac94a1bb",
     "https://anageh577.github.io/pwa/runtime.a7e0684e372f8a15.js": "30ca1c733e26dca565db6c2f4d8da15b0a940520",
